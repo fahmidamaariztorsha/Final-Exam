@@ -1,0 +1,81 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Header Styles */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 18px;
+}
+
+/* Navbar Styles */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Main Content */
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 2rem;
+}
+
+h2, h3 {
+    color: #343a40;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Volunteer Cards */
+.card {
+    margin: 20px 0;
+    border: 1px solid #007bff;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* List Styles */
+.list-group-item {
+    font-size: 18px;
+    color: #007bff;
